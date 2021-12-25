@@ -193,7 +193,7 @@ You can listen on these events:
 - mkdir (dir)
 - write (object)
 - read (src)
-- transfer (buffer, uploaded, total)
+- transfer (buffer, uploaded, total, options)
 
 ## Changelog
 
